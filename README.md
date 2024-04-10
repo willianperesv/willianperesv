@@ -16,5 +16,6 @@
 
 # Last projects
 
+ - [Ignite Timer - React + TS](https://vercel.com/willian-peres-projects/02-ignite-timer/)
  - [Todo List - React](https://desafio-todo-list-nine.vercel.app/)
  - [Ignite Feed - React + TS](https://ignite-feed-nine-sigma.vercel.app/)
