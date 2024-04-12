@@ -1,13 +1,16 @@
 # Hi there!! I am Willian Peres
+
+#### Software Developer 🖥️
+#### Code, travels and Music  🖥️🏍️🎷
 ### 34y, Brazilian 🇧🇷
+
+
 ##### I am a dedicated and committed professional to the organizations where I work, focusing on excellence and quality in the demands that the company requires. Graduating in "Analysis and Systems Development," already in the final semester, I have solid experience in full-stack development, using languages such as Javascript, C#/.Net, and also have notions of SQL. I adapt well to teams of all ages, genders, and various leadership styles, I enjoy challenges, and I have an analytical profile that guides me in problem-solving.
 
 I have a constant routine of daily studies to always be adding more quality to the teams and projects assigned to me.
 
 I am excited to be part of your team and contribute with my dedication and enthusiasm, so that together we can achieve the challenges and goals proposed.
 
-#### Software Developer 🖥️
-#### Love, Music and Travel's  🎷🏍️
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willianperesv/)
