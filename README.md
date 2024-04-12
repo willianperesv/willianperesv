@@ -5,7 +5,7 @@
 ### 34y, Brazilian 🇧🇷
 
 
-##### I am a dedicated and committed professional to the organizations where I work, focusing on excellence and quality in the demands that the company requires. Graduating in "Analysis and Systems Development," already in the final semester, I have solid experience in full-stack development, using languages such as Javascript, C#/.Net, and also have notions of SQL. I adapt well to teams of all ages, genders, and various leadership styles, I enjoy challenges, and I have an analytical profile that guides me in problem-solving.
+#### I am a dedicated and committed professional to the organizations where I work, focusing on excellence and quality in the demands that the company requires. Graduating in "Analysis and Systems Development," already in the final semester, I have solid experience in full-stack development, using languages such as Javascript, C#/.Net, and also have notions of SQL. I adapt well to teams of all ages, genders, and various leadership styles, I enjoy challenges, and I have an analytical profile that guides me in problem-solving.
 
 I have a constant routine of daily studies to always be adding more quality to the teams and projects assigned to me.
 
